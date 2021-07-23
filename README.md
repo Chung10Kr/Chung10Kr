@@ -1,15 +1,16 @@
 ## Hi there 👋
 
 
+
 ### PodCast
 Actually, I'm running a podcast without anyone knowing.
 I'm broadcasting alone.
 I won't tell you the name of the potcast
 Cause I'm talking about my troubles
 
-## friends
-I want to have a synergy effect by studying with someone.
-But, no one wants to study.
+### Sinpo
+If you come to Sinpo-dong, Incheon
+please call me. It's always there.
 
 [![Chung10's github stats](https://github-readme-stats.vercel.app/api?username=Chung10Kr)](https://github.com/anuraghazra/github-readme-stats)
 
