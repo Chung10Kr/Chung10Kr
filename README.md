@@ -8,9 +8,6 @@ I'm broadcasting alone.
 I won't tell you the name of the potcast
 Cause I'm talking about my troubles
 
-### Sinpo
-If you come to Sinpo-dong, Incheon
-please call me. It's always there.
 
 [![Chung10's github stats](https://github-readme-stats.vercel.app/api?username=Chung10Kr)](https://github.com/anuraghazra/github-readme-stats)
 
