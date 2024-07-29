@@ -10,7 +10,8 @@
 
 
 [![Git Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chung10kr.github.io/)](https://chung10kr.github.io/)
-[![개인저장용 Blog](https://chung10.tistory.com/)
+
+[![개인저장용 Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chung10.tistory.com/)](https://chung10.tistory.com/)
 
 
 
